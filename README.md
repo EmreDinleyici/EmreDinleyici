@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:828/format:webp/1*HLGtY6O2vUHqIyEbWdmBgA.jpeg)
+![MasterHead](https://miro.medium.com/v2/resize:fit:828/format:webp/1*HLGtY6O2vUHqIyEbWdmBgA.jpeg)
 
 <h1 align="center">Hi 👋, I'm Emre</h1>
 
