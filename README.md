@@ -1,6 +1,6 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:828/format:webp/1*HLGtY6O2vUHqIyEbWdmBgA.jpeg)
+![EmreDinleyiciMainHead](https://github.com/EmreDinleyici/EmreDinleyici/assets/97657494/865632d7-359a-47bc-9172-8e43e3e7ca68)
 
-<h1 align="center">Hi 👋, I'm Emre</h1>
+<h1 align="center">Hey there 👋</h1>
 
 <h3 align="center">A passionate Computer Engineer from Türkiye</h3>
 
@@ -58,7 +58,7 @@
 
 ###
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emredinleyici&show_icons=true&locale=en&layout=compact" alt="emredinleyici" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emredinleyici&show_icons=true&locale=en" alt="emredinleyici" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=emredinleyici&show_icons=true&theme=radical" alt="emredinleyici"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emredinleyici&show_icons=true&locale=en&layout=compact&theme=radical" alt="emredinleyici"/>
+</p>
