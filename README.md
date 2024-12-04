@@ -4,9 +4,9 @@
 
 <h3 align="center">A passionate Computer Engineer from Türkiye</h3>
 
-- 🔭 I’m currently working on **Kotlin**
+- 🔭 I’m currently working on **Python**
 
-- 🌱 I’m currently learning **Android programming with kotlin**
+- 🌱 I’m currently learning **Machine Learning with python**
 
 - 📫 How to reach me **emredinleyici@gmail.com**
 
