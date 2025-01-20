@@ -1,4 +1,4 @@
-![EmreDinleyiciMainHead](https://github.com/EmreDinleyici/EmreDinleyici/assets/97657494/865632d7-359a-47bc-9172-8e43e3e7ca68)
+![EmreDinleyiciMainHead](https://github.com/user-attachments/assets/c754c37b-ede6-4ba0-9b1c-69191238b3b4)
 
 <h1 align="center">Hey there 👋</h1>
 
