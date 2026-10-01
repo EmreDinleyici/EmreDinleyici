@@ -1,64 +1,116 @@
-![EmreDinleyiciMainHead](https://github.com/user-attachments/assets/c754c37b-ede6-4ba0-9b1c-69191238b3b4)
+<div align="center">
 
-<h1 align="center">Hey there 👋</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:7C3AED&height=220&section=header&text=Emre%20Dinleyici&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Computer%20Engineer%20%E2%80%A2%20I%20Build%20Things&descAlignY=58&descSize=18"/>
 
-<h3 align="center">A passionate Computer Engineer from Türkiye</h3>
+### `> whoami`
 
-- 🔭 I’m currently working on **C# .NET**
+# I make computers do things.
 
-- 🌱 I’m currently learning **.NET Backend Developing**
+Sometimes websites.  
+Sometimes tools.  
+Sometimes automations.  
+Sometimes things I probably didn't need to build.
 
-- 📫 How to reach me **emredinleyici@gmail.com**
+Most of the time, I just get an idea and see how far I can take it.
 
-<h3 align="left">Connect with me:</h3>
-
-###
-
-<img align="right" height="180em" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
-</div>
 <br>
 
-###
+`Software` · `AI` · `Automation` · `Experiments` · `Whatever Works`
 
-<div align="left">
-  <a href="mailto:emredinleyici@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35em" alt="gmail logo"  />
-  </a>
-  <a href="https://linkedin.com/in/emre-dinleyici-a25042277">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35em" alt="linkedin logo"  />
-  </a>
+<br>
+
+<a href="mailto:emredinleyici@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/emre-dinleyici-a25042277">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 </div>
 
-<br><br><br><br>
+---
 
-###
+## `> toolbox`
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=emredinleyici&show_icons=true&theme=radical" alt="emredinleyici"/>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emredinleyici&show_icons=true&locale=en&layout=compact&theme=radical" alt="emredinleyici"/>
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,ts,python,c,java,kotlin,androidstudio,mysql,sqlite,git,github,vscode,visualstudio&perline=9" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<sub>
+Tools change. Languages change.  
+The important part is making the damn thing work.
+</sub>
+
+</div>
+
+---
+
+## `> github --stats`
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=emredinleyici&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emredinleyici&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=emredinleyici&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+## `> contribution --snake`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/emredinleyici/emredinleyici/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+## `> system.log`
+
+```text
+[ OK ] curiosity.exe          running
+[ OK ] unnecessary_ideas.dll  loaded
+[ OK ] ai_assistance          enabled
+[ OK ] debugging              eventually successful
+[ OK ] coffee                 optional
+[ .. ] sleep                  unknown
+```
+
+---
+
+<div align="center">
+
+### `> philosophy.txt`
+
+*"If it can be built, I'll probably try to build it."*
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=emredinleyici&style=flat-square&color=7C3AED&label=PROFILE+VIEWS"/>
+
+<br><br>
+
+<sub>
+Code • AI • Curiosity • Controlled Chaos
+</sub>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:312E81,100:0F172A&height=120&section=footer"/>
