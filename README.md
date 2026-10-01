@@ -85,26 +85,6 @@ The important part is making the damn thing work.
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=emredinleyici&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" alt="Profile Views"/>
-
-<br><br>
-
-<sub>
-Code • AI • Curiosity • Controlled Chaos
-</sub>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### `> philosophy.txt`
-
-*"If it can be built, I'll probably try to build it."*
-
-<br><br>
-
 <sub>
 Code • AI • Curiosity • Controlled Chaos
 </sub>
